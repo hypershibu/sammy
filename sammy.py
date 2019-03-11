@@ -20,7 +20,6 @@ async def autobumper():
 
 # react to message content
 @client.event
-@asyncio.coroutine
 async def on_message(message):
 	# so the bot doesn't react on itself
 	if message.author == client.user:
