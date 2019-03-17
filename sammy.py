@@ -28,7 +28,7 @@ async def autobumper():
 	while not client.is_closed:
 		await client.send_message(channel, 'bump')
 		print('bumped')
-		await asyncio.sleep(seconds)
+		await asyncio.sleep(t_seconds)
 
 
 # background task for handling memos 
