@@ -1,5 +1,5 @@
 # sammy
-Yet Another Python Discord Bot\
+Yet Another Python Discord Bot
 ## Functionality
 Sammy is a basic discord bot made as a useful learning project.\
 Right now the functionality is pretty barebones.\
